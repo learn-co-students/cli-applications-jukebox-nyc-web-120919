@@ -17,3 +17,5 @@ songs = [
 
 
 run(songs)
+
+#  ruby bin/jukebox
